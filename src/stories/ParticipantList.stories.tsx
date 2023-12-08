@@ -2,7 +2,7 @@ import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import ParticipantList from '../components/ParticipantList';
-import { Participants } from 'shared/poll-types';
+import { Participants } from '../../shared/poll-types';
 
 export default {
   title: 'ParticipantList',

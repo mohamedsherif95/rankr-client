@@ -2,7 +2,7 @@ import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
 
 import NominationForm from '../components/NominationForm';
-import { Nominations } from 'shared/poll-types';
+import { Nominations } from '../../shared/poll-types';
 
 export default {
   title: 'NominationForm',
